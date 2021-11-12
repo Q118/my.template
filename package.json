@@ -1,0 +1,20 @@
+{
+  "name": "my.template",
+  "version": "1.0.0",
+  "description": "Learning tool: Reverse-engineering template engines to build my own complex HTML engine",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Q118/my.template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Q118/my.template/issues"
+  },
+  "homepage": "https://github.com/Q118/my.template#readme"
+}
