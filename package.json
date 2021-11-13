@@ -4,7 +4,9 @@
   "description": "Learning tool: Reverse-engineering template engines to build my own complex HTML engine",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Q118/my.template/issues"
   },
-  "homepage": "https://github.com/Q118/my.template#readme"
+  "homepage": "https://github.com/Q118/my.template#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
